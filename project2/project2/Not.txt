@@ -1,0 +1,4 @@
+project2 klasörünün içinde TextJedi.exe ve TextJedi.c dosyaları bulunmaktadır.
+çalıştırmak için commandpromptta TextJedi.exe ve myProg.tj gibi bir input text dosyalarının olduğu yere inip cd komutuyla TextJedi.exe myProg.tj 
+yazmak yeterli olacaktır.
+TextJedi.c dosyasında kodlar bulunmaktadır.

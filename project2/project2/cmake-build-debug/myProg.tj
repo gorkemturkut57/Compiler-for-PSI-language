@@ -1,0 +1,9 @@
+new text asd;new int myInt;
+
+myText := "Hello, TextJedi!";
+myInt := 12;
+
+myInt := myInt + 3;
+myText := myText + " How are you?";
+
+output myText;
