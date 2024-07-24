@@ -323,7 +323,3 @@ print(total);
 ### Support
 
 For any issues, questions, or feedback, please open an issue in the GitHub repository or contact [gorkemturkut@hotmail.com](mailto:gorkemturkut@hotmail.com).
-
----
-
-This README template is designed to provide a comprehensive overview of your project, its structure, and its usage. Feel free to expand on any sections or add new ones to better fit your project's needs.
